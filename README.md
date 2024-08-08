@@ -6,7 +6,17 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+Being the best instructor I can be for my students.
+
+
+
+
+
 - 🌱 I’m currently learning ...
+
+JavaScript, CSS, TypeScript
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
