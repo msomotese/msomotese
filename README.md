@@ -4,12 +4,11 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 Being the best instructor I can be for my students.
+So I can see them in their cap and gown!!
 
-
+![Professinal Photo](https://github.com/user-attachments/assets/c734911a-a659-4465-82c7-83e7f7b9b19c)
 
 
 
@@ -22,5 +21,8 @@ JavaScript, CSS, TypeScript
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Here's a picture of my fur baby!
+![Pru pic](https://github.com/user-attachments/assets/bf838fbd-21ca-45a3-9cc9-f61c26ad9aae)
+
+One thing about me is that I love to travel!
