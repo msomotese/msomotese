@@ -2,8 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/db249b0d-de5c-486c-a461-954502940e9a)
 
-
-
 - 🔭 I’m currently working on ...
 Being the best instructor I can be for my students.
 So I can see them in their cap and gown!!
@@ -12,9 +10,7 @@ So I can see them in their cap and gown!!
 
 
 
-- 🌱 I’m currently learning ...
-
-JavaScript, CSS, TypeScript
+I am proficient in Python, Java, JavaScript, CSS, TypeScript
 
 
 - 👯 I’m looking to collaborate on ...
